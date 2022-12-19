@@ -52,5 +52,5 @@ export const SearchWrapper = styled.div`
 `
 
 export const Make = styled.div`
-
+  background-color: black;
 `
