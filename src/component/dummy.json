@@ -1,0 +1,25 @@
+{
+  "data": {
+    "search": [{
+      "company": "HYUNDAI",
+      "Model": ["Grandeur", "Sonata", "Avante"],
+      "Year": [2018, 2019, 2020, 2021, 2022]
+    },
+    {
+      "company": "KIA",
+      "Model": ["K3", "K5", "K7", "K9"],
+      "Year": [2018, 2019, 2020, 2021, 2022]
+    },
+    {
+      "company": "CHEVROLET",
+      "Model": ["Spark", "Malibu", "Bolt Euv", "Bolt Ev"],
+      "Year": [2018, 2019, 2020, 2021, 2022]
+    },
+    {
+      "company": "RENAULT",
+      "Model": ["XM3", "QM6", "SM6", "MASTER"],
+      "Year": [2018, 2019, 2020, 2021, 2022]
+    }
+     ]
+  }
+}
