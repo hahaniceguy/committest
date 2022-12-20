@@ -5,10 +5,6 @@ export default function SideBar() {
   
   const [open, setOpen] = useState(false);
 
-  const handleClickOpen = () => {
-    return(<div>end</div>)
-  }
-
   const onClickMenu = () => (
     setOpen((prev) => !prev)
   )
