@@ -11,7 +11,13 @@ export default function BoardPageUI(){
           <Title>Choose your vehicle</Title>
           <SemiTitle>Note: This demo contains a small sample of available parts. Try searching E36</SemiTitle>
           <ApiKeyBox>Please enter an API key before continuing</ApiKeyBox>
-          <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfas3453</div>
           <SearchWrapper>
             <Make></Make>
           </SearchWrapper>
