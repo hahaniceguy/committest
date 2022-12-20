@@ -15,6 +15,9 @@ export default function BoardPageUI(){
           <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
           <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
           <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
+          <div class={style.brown}>aoa234asasdfsdfsafasdfasdfasfsdfasdfasdf453453453</div>
           <SearchWrapper>
             <Make></Make>
           </SearchWrapper>
