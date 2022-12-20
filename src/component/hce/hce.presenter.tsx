@@ -9,9 +9,9 @@ export default function BoardPageUI(){
         <ContentWrapper>
           <Title>Choose your vehicle</Title>
           <SemiTitle>Note: This demo contains a small sample of available parts. Try searching E36</SemiTitle>
-          <ApiKeyBox>Please enter an API key before continuing</ApiKeyBox>
+          <ApiKeyBox>Please enter an API key before continuing_asdfjasodfijasdofijsodfij</ApiKeyBox>
           <SearchWrapper>
-            <Make><div><a><p></p></a></div></Make>
+            <Make></Make>
           </SearchWrapper>
         </ContentWrapper>
       </Wrapper>
