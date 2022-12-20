@@ -27,6 +27,7 @@ export const MmySelectWrapper = styled.div`
   display: flex;
   justify-self: right;
   flex-direction: row;
+  padding: 0;
 `
 
 export const Make = styled.select`
