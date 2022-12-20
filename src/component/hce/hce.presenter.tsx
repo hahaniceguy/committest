@@ -11,7 +11,7 @@ export default function BoardPageUI(){
           <SemiTitle>Note: This demo contains a small sample of available parts. Try searching E36</SemiTitle>
           <ApiKeyBox>Please enter an API key before continuing</ApiKeyBox>
           <SearchWrapper>
-            <Make></Make>
+            <Make><div><a><p></p></a></div></Make>
           </SearchWrapper>
         </ContentWrapper>
       </Wrapper>
