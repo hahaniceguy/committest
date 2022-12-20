@@ -1,5 +1,5 @@
 import SideBarUI from './SideBar.presenter'
-import { useCallback, useState } from 'react';
+import { useState } from 'react';
 
 export default function SideBar() {
   
