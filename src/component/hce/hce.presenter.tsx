@@ -1,4 +1,4 @@
-import {Wrapper, ContentWrapper, Title, SemiTitle, ApiKeyBox, SearchWrapper, Make} from './hce.styles'
+import {Wrapper, ContentWrapper, Title, SemiTitle, ApiKeyBox, SearchWrapper, Make, Test} from './hce.styles'
 import SideBar from '../sidebar/SideBar.container'
 import style from '../Css/Main.module.css';
 
@@ -12,6 +12,8 @@ export default function BoardPageUI(){
           <SemiTitle>Note: This demo contains a small sample of available parts. Try searching E36</SemiTitle>
           <ApiKeyBox>Please enter an API key before continuing</ApiKeyBox>
           <div className={style.brown}>clear</div>
+          <div className={style.origin}>Click</div>
+          <Test style={{background: "lightgreen"}}>Click</Test>
           <SearchWrapper>
             <Make></Make>
           </SearchWrapper>

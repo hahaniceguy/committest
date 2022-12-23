@@ -55,3 +55,7 @@ export const Make = styled.div`
   background-color: black;
   margin: 0px;
 `
+export const Test = styled.div`
+  background: black;
+  font-size: 20px;
+`
