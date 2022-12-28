@@ -15,7 +15,7 @@ export default function BoardPageUI(){
           <div className={style.origin}>Click</div>
           <Test style={{background: "lightgreen"}}>Click</Test>
           <SearchWrapper>
-            <Make></Make>
+            <Make>asdf</Make>
           </SearchWrapper>
         </ContentWrapper>
       </Wrapper>
