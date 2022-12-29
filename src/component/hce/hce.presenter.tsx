@@ -12,10 +12,11 @@ export default function BoardPageUI(){
           <SemiTitle>Note: This demo contains a small sample of available parts. Try searching E36</SemiTitle>
           <ApiKeyBox>Please enter an API key before continuing</ApiKeyBox>
           <div className={style.brown}>clear</div>
-          <div className={style.origin}>Click</div>
+          <input type='text' disabled></input>
+          <div className={style.origin} >Click</div>
           <Test style={{background: "lightgreen"}}>Click</Test>
           <SearchWrapper>
-            <Make>asdf</Make>
+            <Make></Make>
           </SearchWrapper>
         </ContentWrapper>
       </Wrapper>
